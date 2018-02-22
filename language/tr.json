@@ -1,25 +1,25 @@
 {
   "semantics":[
     {
-      "label":"List of Column Content",
+      "label":"Sütun İçeriği Listesi",
       "entity":"content",
       "field":{
         "fields":[
           {
-            "label":"Content"
+            "label":"İçerik"
           },
           {
-            "label":"Separate content with a horizontal ruler",
+            "label":"İçeriği yatay çizgiyle ayır",
             "default":"auto",
             "options":[
               {
-                "label":"Automatic (default)"
+                "label":"Otomatik (varsayılan)"
               },
               {
-                "label":"Never use ruler above"
+                "label":"Asla yukarıda çizgi kullanma"
               },
               {
-                "label":"Always use ruler above"
+                "label":"Daima yukarıda çizgi kullan"
               }
             ]
           }
